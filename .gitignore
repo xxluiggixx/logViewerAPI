@@ -128,7 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+<<<<<<< HEAD
 
 #dockerimage
 *.tar.gz
 docker-compose.yml
+=======
+>>>>>>> 44e5a500667a29a94c2f9a5b0f2d20fd32ab406f
